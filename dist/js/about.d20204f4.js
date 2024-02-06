@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkMapApp"]=self["webpackChunkMapApp"]||[]).push([[152],{4251:function(n,a,u){u.r(a),u.d(a,{default:function(){return f}});var t=u(4108);const e={class:"about"},r=(0,t.QD)("h1",null,"This is an about page",-1),s=[r];function c(n,a){return(0,t.Wz)(),(0,t.An)("div",e,s)}var p=u(4100);const i={},o=(0,p.c)(i,[["render",c]]);var f=o}}]);
+//# sourceMappingURL=about.d20204f4.js.map
