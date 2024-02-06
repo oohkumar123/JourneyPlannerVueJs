@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkjourneyplannervuejs"]=self["webpackChunkjourneyplannervuejs"]||[]).push([[152],{4251:function(n,e,u){u.r(e),u.d(e,{default:function(){return f}});var r=u(4108);const a={class:"about"},s=(0,r.QD)("h1",null,"This is an about page",-1),t=[s];function c(n,e){return(0,r.Wz)(),(0,r.An)("div",a,t)}var o=u(4100);const l={},i=(0,o.c)(l,[["render",c]]);var f=i}}]);
+//# sourceMappingURL=about.9111eef8.js.map
